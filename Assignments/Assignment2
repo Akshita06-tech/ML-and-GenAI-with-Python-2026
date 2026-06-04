@@ -1,0 +1,13 @@
+Find sum of first 10 natural numbers.  
+Find factorial of a number.  
+Print Fibonacci Series.  
+Find largest among 3 numbers.  
+Create Student Result System  
+	-	Input student details 
+	-	Input marks 
+	-	Calculate percentage 
+	-	Display grade 
+	-	Use: 
+      if-elif-else 
+      loops 
+      user input
